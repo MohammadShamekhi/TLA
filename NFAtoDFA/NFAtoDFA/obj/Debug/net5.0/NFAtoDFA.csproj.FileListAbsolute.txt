@@ -1,0 +1,16 @@
+E:\first-project_TLA\TLA_project1\NFAtoDFA\NFAtoDFA\NFAtoDFA\bin\Debug\net5.0\NFAtoDFA.exe
+E:\first-project_TLA\TLA_project1\NFAtoDFA\NFAtoDFA\NFAtoDFA\bin\Debug\net5.0\NFAtoDFA.deps.json
+E:\first-project_TLA\TLA_project1\NFAtoDFA\NFAtoDFA\NFAtoDFA\bin\Debug\net5.0\NFAtoDFA.runtimeconfig.json
+E:\first-project_TLA\TLA_project1\NFAtoDFA\NFAtoDFA\NFAtoDFA\bin\Debug\net5.0\NFAtoDFA.runtimeconfig.dev.json
+E:\first-project_TLA\TLA_project1\NFAtoDFA\NFAtoDFA\NFAtoDFA\bin\Debug\net5.0\NFAtoDFA.dll
+E:\first-project_TLA\TLA_project1\NFAtoDFA\NFAtoDFA\NFAtoDFA\bin\Debug\net5.0\NFAtoDFA.pdb
+E:\first-project_TLA\TLA_project1\NFAtoDFA\NFAtoDFA\NFAtoDFA\obj\Debug\net5.0\NFAtoDFA.csproj.AssemblyReference.cache
+E:\first-project_TLA\TLA_project1\NFAtoDFA\NFAtoDFA\NFAtoDFA\obj\Debug\net5.0\NFAtoDFA.GeneratedMSBuildEditorConfig.editorconfig
+E:\first-project_TLA\TLA_project1\NFAtoDFA\NFAtoDFA\NFAtoDFA\obj\Debug\net5.0\NFAtoDFA.AssemblyInfoInputs.cache
+E:\first-project_TLA\TLA_project1\NFAtoDFA\NFAtoDFA\NFAtoDFA\obj\Debug\net5.0\NFAtoDFA.AssemblyInfo.cs
+E:\first-project_TLA\TLA_project1\NFAtoDFA\NFAtoDFA\NFAtoDFA\obj\Debug\net5.0\NFAtoDFA.csproj.CoreCompileInputs.cache
+E:\first-project_TLA\TLA_project1\NFAtoDFA\NFAtoDFA\NFAtoDFA\obj\Debug\net5.0\NFAtoDFA.dll
+E:\first-project_TLA\TLA_project1\NFAtoDFA\NFAtoDFA\NFAtoDFA\obj\Debug\net5.0\refint\NFAtoDFA.dll
+E:\first-project_TLA\TLA_project1\NFAtoDFA\NFAtoDFA\NFAtoDFA\obj\Debug\net5.0\NFAtoDFA.pdb
+E:\first-project_TLA\TLA_project1\NFAtoDFA\NFAtoDFA\NFAtoDFA\obj\Debug\net5.0\NFAtoDFA.genruntimeconfig.cache
+E:\first-project_TLA\TLA_project1\NFAtoDFA\NFAtoDFA\NFAtoDFA\obj\Debug\net5.0\ref\NFAtoDFA.dll

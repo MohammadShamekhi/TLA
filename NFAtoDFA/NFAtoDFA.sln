@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NFAtoDFA", "NFAtoDFA\NFAtoDFA.csproj", "{4678A621-2622-402A-8DAC-9CF9EC9DE37E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4678A621-2622-402A-8DAC-9CF9EC9DE37E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4678A621-2622-402A-8DAC-9CF9EC9DE37E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4678A621-2622-402A-8DAC-9CF9EC9DE37E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4678A621-2622-402A-8DAC-9CF9EC9DE37E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20920061-8B51-44D2-847D-36A5D1CA10F0}
+	EndGlobalSection
+EndGlobal
