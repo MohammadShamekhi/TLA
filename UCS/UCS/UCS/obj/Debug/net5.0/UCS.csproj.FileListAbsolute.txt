@@ -1,0 +1,16 @@
+E:\first-project_TLA\UCS\UCS\UCS\bin\Debug\net5.0\UCS.exe
+E:\first-project_TLA\UCS\UCS\UCS\bin\Debug\net5.0\UCS.deps.json
+E:\first-project_TLA\UCS\UCS\UCS\bin\Debug\net5.0\UCS.runtimeconfig.json
+E:\first-project_TLA\UCS\UCS\UCS\bin\Debug\net5.0\UCS.runtimeconfig.dev.json
+E:\first-project_TLA\UCS\UCS\UCS\bin\Debug\net5.0\UCS.dll
+E:\first-project_TLA\UCS\UCS\UCS\bin\Debug\net5.0\UCS.pdb
+E:\first-project_TLA\UCS\UCS\UCS\obj\Debug\net5.0\UCS.csproj.AssemblyReference.cache
+E:\first-project_TLA\UCS\UCS\UCS\obj\Debug\net5.0\UCS.GeneratedMSBuildEditorConfig.editorconfig
+E:\first-project_TLA\UCS\UCS\UCS\obj\Debug\net5.0\UCS.AssemblyInfoInputs.cache
+E:\first-project_TLA\UCS\UCS\UCS\obj\Debug\net5.0\UCS.AssemblyInfo.cs
+E:\first-project_TLA\UCS\UCS\UCS\obj\Debug\net5.0\UCS.csproj.CoreCompileInputs.cache
+E:\first-project_TLA\UCS\UCS\UCS\obj\Debug\net5.0\UCS.dll
+E:\first-project_TLA\UCS\UCS\UCS\obj\Debug\net5.0\refint\UCS.dll
+E:\first-project_TLA\UCS\UCS\UCS\obj\Debug\net5.0\UCS.pdb
+E:\first-project_TLA\UCS\UCS\UCS\obj\Debug\net5.0\UCS.genruntimeconfig.cache
+E:\first-project_TLA\UCS\UCS\UCS\obj\Debug\net5.0\ref\UCS.dll
