@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String_Checking", "String_Checking\String_Checking.csproj", "{329E6A98-20AD-4CDC-8033-220A20489ECD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{329E6A98-20AD-4CDC-8033-220A20489ECD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{329E6A98-20AD-4CDC-8033-220A20489ECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{329E6A98-20AD-4CDC-8033-220A20489ECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{329E6A98-20AD-4CDC-8033-220A20489ECD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37AF7E82-E362-433F-A105-CD82E600860D}
+	EndGlobalSection
+EndGlobal
