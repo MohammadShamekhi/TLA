@@ -1,0 +1,16 @@
+E:\first-project_TLA\TLA_project1\Minimization\Minimization\Minimization\bin\Debug\net5.0\Minimization.exe
+E:\first-project_TLA\TLA_project1\Minimization\Minimization\Minimization\bin\Debug\net5.0\Minimization.deps.json
+E:\first-project_TLA\TLA_project1\Minimization\Minimization\Minimization\bin\Debug\net5.0\Minimization.runtimeconfig.json
+E:\first-project_TLA\TLA_project1\Minimization\Minimization\Minimization\bin\Debug\net5.0\Minimization.runtimeconfig.dev.json
+E:\first-project_TLA\TLA_project1\Minimization\Minimization\Minimization\bin\Debug\net5.0\Minimization.dll
+E:\first-project_TLA\TLA_project1\Minimization\Minimization\Minimization\bin\Debug\net5.0\Minimization.pdb
+E:\first-project_TLA\TLA_project1\Minimization\Minimization\Minimization\obj\Debug\net5.0\Minimization.csproj.AssemblyReference.cache
+E:\first-project_TLA\TLA_project1\Minimization\Minimization\Minimization\obj\Debug\net5.0\Minimization.GeneratedMSBuildEditorConfig.editorconfig
+E:\first-project_TLA\TLA_project1\Minimization\Minimization\Minimization\obj\Debug\net5.0\Minimization.AssemblyInfoInputs.cache
+E:\first-project_TLA\TLA_project1\Minimization\Minimization\Minimization\obj\Debug\net5.0\Minimization.AssemblyInfo.cs
+E:\first-project_TLA\TLA_project1\Minimization\Minimization\Minimization\obj\Debug\net5.0\Minimization.csproj.CoreCompileInputs.cache
+E:\first-project_TLA\TLA_project1\Minimization\Minimization\Minimization\obj\Debug\net5.0\Minimization.dll
+E:\first-project_TLA\TLA_project1\Minimization\Minimization\Minimization\obj\Debug\net5.0\refint\Minimization.dll
+E:\first-project_TLA\TLA_project1\Minimization\Minimization\Minimization\obj\Debug\net5.0\Minimization.pdb
+E:\first-project_TLA\TLA_project1\Minimization\Minimization\Minimization\obj\Debug\net5.0\Minimization.genruntimeconfig.cache
+E:\first-project_TLA\TLA_project1\Minimization\Minimization\Minimization\obj\Debug\net5.0\ref\Minimization.dll
